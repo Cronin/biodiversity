@@ -12,4 +12,3 @@ I perform some data analysis on the conservation statuses of these species and i
 - Become familiar with data analysis workflow
 # Knowledge Required:
 - Data Visualization
-- Communicating Data Science Findings
